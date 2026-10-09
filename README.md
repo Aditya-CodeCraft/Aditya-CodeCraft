@@ -73,9 +73,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [🎬 Movie Mate](https://github.com/Aditya-CodeCraft/Movie-recommendation-System) | Content-based movie recommender that addresses choice paralysis. Pick a movie and get five similar picks, matched with **bag-of-words vectorization** (CountVectorizer) and **cosine similarity** over genre, keywords, cast and crew. | Python · Pandas · scikit-learn |
-| [🧍 Human Pose Estimation](https://github.com/Aditya-CodeCraft/Human-pose-estimation) | Detects human body keypoints in images and video using machine learning. Built during an **AICTE internship**. | Python · OpenCV · ML |
-| [🌐 Applizce](https://github.com/Aditya-CodeCraft/applizce) | Responsive web application built with Next.js. | Next.js · JavaScript · CSS |
+| [🎬 Movie Mate](https://github.com/Aditya-CodeCraft/Movie-recommendation-System) | Content-based movie recommender that addresses choice paralysis. Pick a movie and get five similar picks, matched with **bag-of-words vectorization** (CountVectorizer) and **cosine similarity** over genre, keywords, cast and crew. | Python · Pandas · scikit-learn · Streamlit |
+| [🧍 Human Pose Estimation](https://github.com/Aditya-CodeCraft/Human-pose-estimation) | Detects and draws human body keypoints in images and video, with a Streamlit app and a [live web demo](https://velvety-twilight-9e0b82.netlify.app/). Built during an **AICTE internship**. | Python · OpenCV · MediaPipe · Streamlit |
 
 ---
 
