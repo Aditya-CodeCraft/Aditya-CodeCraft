@@ -7,6 +7,13 @@
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-brightgreen?style=flat" alt="Open to internships and collaboration" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Developer%20%26%20Tester-6f42c1?style=flat&logo=codeigniter&logoColor=white" alt="Role: Developer and Tester" />
+  <img src="https://img.shields.io/badge/Education-CS%20Undergrad%20%40%20HITK-orange?style=flat&logo=googlescholar&logoColor=white" alt="Education: CS undergrad at HITK" />
+  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-0e75b6?style=flat&logo=googlemaps&logoColor=white" alt="Location: Kolkata, India" />
+  <a href="https://www.linkedin.com/in/aditya-gupta-b33789284/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -43,6 +50,14 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+**Core Computer Science**
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1E88E5?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-546E7A?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-00897B?style=for-the-badge&logo=databricks&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-37474F?style=for-the-badge&logo=linux&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-5E35B1?style=for-the-badge&logo=cisco&logoColor=white)
+
 **Testing & Quality**
 
 ![Software Testing](https://img.shields.io/badge/Software%20Testing-2E7D32?style=for-the-badge)
@@ -75,6 +90,11 @@
 |---|---|---|
 | [🎬 Movie Mate](https://github.com/Aditya-CodeCraft/Movie-recommendation-System) | Content-based movie recommender that addresses choice paralysis. Pick a movie and get five similar picks, matched with **bag-of-words vectorization** (CountVectorizer) and **cosine similarity** over genre, keywords, cast and crew. | Python · Pandas · scikit-learn · Streamlit |
 | [🧍 Human Pose Estimation](https://github.com/Aditya-CodeCraft/Human-pose-estimation) | Detects and draws human body keypoints in images and video, with a Streamlit app and a [live web demo](https://velvety-twilight-9e0b82.netlify.app/). Built during an **AICTE internship**. | Python · OpenCV · MediaPipe · Streamlit |
+
+<p align="center">
+  <a href="https://github.com/Aditya-CodeCraft/Movie-recommendation-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-CodeCraft&repo=Movie-recommendation-System&theme=tokyonight&hide_border=true" alt="Movie Mate repo card" /></a>
+  <a href="https://github.com/Aditya-CodeCraft/Human-pose-estimation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-CodeCraft&repo=Human-pose-estimation&theme=tokyonight&hide_border=true" alt="Human Pose Estimation repo card" /></a>
+</p>
 
 ---
 
