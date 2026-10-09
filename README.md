@@ -89,6 +89,14 @@
   <img src="https://streak-stats.demolab.com?user=Aditya-CodeCraft&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-CodeCraft/Aditya-CodeCraft/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-CodeCraft/Aditya-CodeCraft/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Aditya-CodeCraft/Aditya-CodeCraft/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 🤝 Connect With Me
