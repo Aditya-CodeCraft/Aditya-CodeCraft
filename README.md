@@ -73,7 +73,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [🎬 Movie Mate](https://github.com/Aditya-CodeCraft/Movie-recommendation-System) | Content-based movie recommender that addresses choice paralysis. Pick a movie and get five similar picks, matched with **TF-IDF vectorization** and **cosine similarity** over genre, plot and cast. | Python · Pandas · scikit-learn |
+| [🎬 Movie Mate](https://github.com/Aditya-CodeCraft/Movie-recommendation-System) | Content-based movie recommender that addresses choice paralysis. Pick a movie and get five similar picks, matched with **bag-of-words vectorization** (CountVectorizer) and **cosine similarity** over genre, keywords, cast and crew. | Python · Pandas · scikit-learn |
 | [🧍 Human Pose Estimation](https://github.com/Aditya-CodeCraft/Human-pose-estimation) | Detects human body keypoints in images and video using machine learning. Built during an **AICTE internship**. | Python · OpenCV · ML |
 | [🌐 Applizce](https://github.com/Aditya-CodeCraft/applizce) | Responsive web application built with Next.js. | Next.js · JavaScript · CSS |
 
@@ -92,6 +92,15 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-CodeCraft&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-gupta-b33789284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Aditya-CodeCraft"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
