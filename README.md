@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer & Tester · CS Student at Heritage Institute of Technology</h3>
 
 <p align="center">
-  <a href="https://github.com/Aditya-CodeCraft"><img src="https://komarev.com/ghpvc/?username=Aditya-CodeCraft&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="https://github.com/Aditya-CodeCraft"><img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-CodeCraft.Aditya-CodeCraft&left_text=Profile%20views&left_color=%23555&right_color=%230e75b6" alt="Profile views" /></a>
   <a href="https://github.com/Aditya-CodeCraft?tab=followers"><img src="https://img.shields.io/github/followers/Aditya-CodeCraft?label=Followers&style=flat&color=0e75b6" alt="Followers" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-brightgreen?style=flat" alt="Open to internships and collaboration" />
 </p>
